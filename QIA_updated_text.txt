@@ -1,0 +1,460 @@
+Qualitative Inhaltsanalyse nach Kuckartz & Rädiker
+Einflussfaktoren auf das Antwortverhalten im 360-Grad-Feedback auf Managing-Director-Ebene bei EOS
+Strukturierende Inhaltsanalyse von sieben Experteninterviews
+Datenbasis
+7 transkribierte halbstrukturierte Experteninterviews (I1–I7)
+Theoretische Grundlage: 18 Einflussfaktoren in 3 Dimensionen
+Interviewleitfaden: deutsch / englisch
+Methodisches Vorgehen
+Zwei Codierdurchgänge: deduktive Hauptkategorienbildung,
+induktive Subkategorienbildung am Material
+1 Methodisches Vorgehen
+Die vorliegende Analyse folgt der strukturierenden qualitativen Inhaltsanalyse nach Kuckartz & Rädiker (2022, 2024). Ausgewertet wurden sieben halbstrukturierte Experteninterviews mit Feedbackgebern aus dem 360-Grad-Prozess auf Managing-Director-Ebene bei EOS. Die Codierung erfolgte in zwei Durchgängen entlang des methodischen Doppelschritts deduktiv – induktiv.
+1.1 Datenkorpus
+
+1.2 Codierprozess
+Die Hauptkategorien werden mit dem Kürzel K (Kategorie) nummeriert (K1–K19). Dies folgt der Notationskonvention nach Kuckartz & Rädiker (2022) und ist nicht mit Hypothesen zu verwechseln.
+Schritt 1 – Deduktive Hauptkategorienbildung: Aus dem Theoriedokument wurden 18 Einflussfaktoren in drei Dimensionen (instrumentell, organisational, individuell) als Hauptkategorien abgeleitet. Sämtliche sieben Interviews wurden mit diesem Kategoriensystem vollständig codiert.
+Schritt 2 – Induktive Subkategorienbildung: Innerhalb der bereits codierten Segmente wurden induktiv Subkategorien gebildet, die die konkreten Ausprägungen und Wirkungsweisen der Einflussfaktoren im Material abbilden. Anschließend erfolgte ein zweiter Codierdurchgang, in dem jedes Segment zusätzlich auf Subkategorienebene zugeordnet wurde.
+Qualitätssicherung: Trennschärfe (klare Inklusion-/Exklusionsregeln), Exhaustivität (vollständige Bearbeitung aller sieben Interviews), Sättigung (Prüfung neuer Subkategorien) und intersubjektive Nachvollziehbarkeit durch Ankerbeispiele und Codierregeln.
+2 TEIL 1: Erste Codierung — Deduktive Hauptkategorienbildung
+Aus dem Theoriedokument „Anhang Einflussfaktoren der Feedbackgeber" und dem Interviewleitfaden wurden 18 Hauptkategorien abgeleitet, gegliedert in drei Dimensionen: instrumentelle Faktoren (K1–K4), organisationale Faktoren (K5–K10) und individuelle Faktoren (K12–K19). Alle sieben Interviews wurden mit diesem deduktiven Kategoriensystem codiert.
+2.1 Codierschema der Hauptkategorien
+Instrumentelle Faktoren (K1–K4)
+
+Organisationale Faktoren (K5–K10)
+
+Individuelle Faktoren (K12–K19)
+
+2.2 Code-Häufigkeiten der Hauptkategorien
+Die folgende Tabelle zeigt die Anzahl der Codings je Hauptkategorie und Interview. Felder ohne Coding sind weiß gehalten, codierte Felder hellblau, Zeilen- und Spaltensummen dunkler hervorgehoben.
+
+Zusammenfassung Häufigkeiten — Hauptkategorien (sortiert)
+K7 Feedbackkultur: 21   K5 Verfahrenszweck: 20   K3 Skalenniveau (Länge & Format): 17   K2 Item-Formulierung: 16   K18 Beobachtungs- & Urteilskompetenz: 15   K4 Layout / Antwortformat: 14   K1 Fragebogenlänge: 13   K9 Wahrgenommene Anonymität: 12   K15 Leniency / Milde-Effekt: 12   K17 Motivation: 12   K19 Sympathie (Rater Affect): 10   K12 Halo-Effekt: 9   K6 Freiwilligkeit der Teilnahme: 8   K10 Psychologische Sicherheit: 8   K8 Hierarchie- & Arbeitsverhältnis: 7   K13 Recency-Effekt: 6   K14 Schemata / Stereotype: 6   K16 Soziale Erwünschtheit: 5
+3 TEIL 2: Zweite Codierung — Induktive Subkategorienbildung
+Im zweiten Durchgang wurden innerhalb der deduktiven Hauptkategorien induktiv Subkategorien gebildet, die die im Material auftretenden Ausprägungen abbilden. Insgesamt entstanden 61 Subkategorien.
+3.1 Codierschema der Subkategorien
+K1 Fragebogenlänge
+
+K2 Item-Formulierung
+
+K3 Skalenniveau (Länge & Format)
+
+K4 Layout / Antwortformat
+
+K5 Verfahrenszweck
+
+K6 Freiwilligkeit der Teilnahme
+
+K7 Feedbackkultur
+
+K8 Hierarchie- & Arbeitsverhältnis
+
+K9 Wahrgenommene Anonymität
+
+K10 Psychologische Sicherheit
+
+K12 Halo-Effekt
+
+K13 Recency-Effekt
+
+K14 Schemata / Stereotype
+
+K15 Leniency / Milde-Effekt
+
+K16 Soziale Erwünschtheit
+
+K17 Motivation
+
+K18 Beobachtungs- & Urteilskompetenz
+
+K19 Sympathie (Rater Affect)
+
+3.2 Vollständige Code-Häufigkeiten (Baumdiagramm)
+Die folgende hierarchische Übersicht zeigt die Häufigkeit aller Codes auf Haupt- und Subkategorie-Ebene über alle sieben Interviews hinweg.
+INSTRUMENTELLE FAKTOREN
+K1 Fragebogenlänge (13)
+├── K1.1 Länge passend / akzeptabel (9)
+├── K1.2 Präferenz für Kürze (6)
+├── K1.3 Konzentrationsverlust / Ermüdung (2)
+K2 Item-Formulierung (16)
+├── K2.1 Items klar / verständlich (7)
+├── K2.2 Inhaltliche Ähnlichkeit / Redundanz (6)
+├── K2.3 Unpassende / EOS-untypische Items (2)
+├── K2.4 Subjektive Skaleninterpretation (2)
+K3 Skalenniveau (Länge & Format) (17)
+├── K3.1 Ablehnung der neutralen Mitte (7)
+├── K3.2 Wunsch nach neutraler Mitte (3)
+├── K3.3 Bauchgefühl bei 5/6 (5)
+├── K3.4 Klare Kriterien für 5/6 (5)
+K4 Layout / Antwortformat (14)
+├── K4.1 Freitext als wertvolle Ergänzung (9)
+├── K4.2 Variation Antwortformat positiv (4)
+├── K4.3 Erwartungs-Freitext schwierig (2)
+ORGANISATIONALE FAKTOREN
+K5 Verfahrenszweck (20)
+├── K5.1 Entwicklungszweck (8)
+├── K5.2 Administrativer / Kontroll-Zweck (6)
+├── K5.3 Mischzweck / ambivalent (4)
+├── K5.4 Fehlende Nachbearbeitung / Follow-up (4)
+K6 Freiwilligkeit der Teilnahme (8)
+├── K6.1 Pflichtempfinden (4)
+├── K6.2 Freiwilliges Engagement (3)
+├── K6.3 Personen-/situationsabhängig (2)
+K7 Feedbackkultur (21)
+├── K7.1 Harmoniebedürfnis / Harmoniebiotop (DE) (6)
+├── K7.2 Offene / direkte Kultur (10)
+├── K7.3 Subkulturen je Bereich / Team (3)
+├── K7.4 Fehlende Streitkultur (2)
+K8 Hierarchie- & Arbeitsverhältnis (7)
+├── K8.1 Sichtbarkeit für Vorgesetzte (6)
+├── K8.2 Horizontale Interdependenz (1)
+K9 Wahrgenommene Anonymität (12)
+├── K9.1 Anonymität als gegeben (4)
+├── K9.2 Anonymität faktisch zweifelhaft (6)
+├── K9.3 Bedenken bei Freitext (2)
+K10 Psychologische Sicherheit (8)
+├── K10.1 Hohe Sicherheit (≥ 8) (5)
+├── K10.2 Mittlere Sicherheit (6–7) (3)
+├── K10.3 Personenabhängige Sicherheit (1)
+INDIVIDUELLE FAKTOREN
+K12 Halo-Effekt (9)
+├── K12.1 Gesamtbild dominiert Einzelurteile (7)
+├── K12.2 Allgemeines Grundgefühl als Maßstab (2)
+K13 Recency-Effekt (6)
+├── K13.1 Dominanz der letzten Wochen / Monate (6)
+├── K13.2 Erinnerungslücken bei älteren Ereignissen (0)
+├── K13.3 Nur schillernde Ereignisse bleiben (0)
+K14 Schemata / Stereotype (6)
+├── K14.1 MD-Rolle als Bewertungsanker (3)
+├── K14.2 Standarderwartung an Geschäftsführer (1)
+├── K14.3 Aktive Ablehnung des Rollenarguments (2)
+K15 Leniency / Milde-Effekt (12)
+├── K15.1 Generell positivere Bewertung (5)
+├── K15.2 Vermeidung scharfer Kritik (2)
+├── K15.3 Bei Unsicherheit positiv (2)
+├── K15.4 Gefälligkeitsgutachten allgemein (3)
+K16 Soziale Erwünschtheit (5)
+├── K16.1 Schutz der bewerteten Person (2)
+├── K16.2 Awareness über Mitleser (2)
+├── K16.3 Filtern kritischer Inhalte (1)
+K17 Motivation (12)
+├── K17.1 Hohe persönliche Bedeutung von Feedback (7)
+├── K17.2 Zeitknappheit / kurz vor Deadline (2)
+├── K17.3 Zweifel an Wirksamkeit (1)
+├── K17.4 Engagement durch Follow-up / Gespräch (2)
+K18 Beobachtungs- & Urteilskompetenz (15)
+├── K18.1 Fehlende konkrete Situationen (8)
+├── K18.2 Nutzung von 'No feedback possible' (3)
+├── K18.3 Rückgriff auf indirekte Informationen (3)
+├── K18.4 Bewertung auf Basis Gesamtbild bei Datenmangel (1)
+K19 Sympathie (Rater Affect) (10)
+├── K19.1 Bewusstes Übersehen kleinerer Schwächen (3)
+├── K19.2 Beziehungsebene als stärkster Einflussfaktor (4)
+├── K19.3 Persönliche Historie / lange Zusammenarbeit (3)
+3.3 Code-Matrix-Browser (Subkategorien × Interviews)
+Die folgende Matrix zeigt, in welchem Interview welche Subkategorie wie häufig codiert wurde. Dunklere Zellfarben markieren stärkere Vorkommen.
+
+3.4 Code-Relations-Browser — Kookkurrenz-Matrix
+Die Matrix zeigt die Anzahl der Interviews, in denen je zwei Hauptkategorien gemeinsam auftreten (Wertebereich 0–7). Dunklere Felder kennzeichnen stärkere Verflechtungen.
+
+Top-15 Code-Kombinationen mit inhaltlicher Erklärung
+
+3.5 Segment-Matrix — Zitatsammlung pro Subkategorie
+Die folgende Sammlung enthält die wichtigsten codierten Originalzitate pro Subkategorie mit Quellenangabe in eckigen Klammern (Interview-Nummer).
+K1 Fragebogenlänge
+K1.1 Länge passend / akzeptabel
+[I1, Abs. 17] „Die Länge habe ich als ausreichend. Also jetzt weder zu lang oder zu kurz."
+[I3, Abs. 17] „It's fine, I think. It's not too big to be annoying and unnecessary."
+[I4, Abs. 18] „Ach, war alles okay. Also ich fand das nicht zu lang, also eher so kurz und knackig."
+[I7, Abs. 22] „Was braucht man da? So 20 bis 30 Minuten? Ich hoffe, da kann man sich noch konzentrieren von vorne bis hinten."
+K1.2 Präferenz für Kürze
+[I1, Abs. 17] „Desto kompakter das ist desto besser." ✓
+[I2, Abs. 25] „Ich glaube, die kurze ist hilfreicher, weil sie ermöglicht, präziser zu antworten."
+[I6, Abs. 105] „Konkret und kürzer."
+K1.3 Konzentrationsverlust / Ermüdung
+[I6, Abs. 23] „Irgendwann hat man auch keinen Bock mehr. Es ist schon ein bisschen, ja…"
+[I6, Abs. 23] „Bei der ersten habe ich das direkt gemacht, bei der zweiten habe ich bewertet, aber keine Beispiele gegeben. Dann musste ich das speichern und zu einem späteren Zeitpunkt machen."
+K2 Item-Formulierung
+K2.1 Items klar / verständlich
+[I2, Abs. 31] „Die Fragen waren für mich klar und verständlich."
+[I5, Abs. 23] „Those are typical questions that can be used for managers, for their roles, and I think they are well-tailored for this."
+[I7, Abs. 24] „Ja, ich konnte die Fragen gut auf konkrete Arbeitssituationen beziehen."
+K2.2 Inhaltliche Ähnlichkeit / Redundanz
+[I2, Abs. 33] „Bei der langen eher, bei der kurzen weniger. In den Rubriken wiederholen die sich, finde ich, oder decken was Ähnliches ab."
+[I6, Abs. 31] „Ja, das stimmt sie haben sich teilweise geähnelt."
+[I7, Abs. 28] „Ja, schon. Ein paar wiederholen sich, finde ich."
+K2.3 Unpassende / EOS-untypische Items
+[I7, Abs. 14] „Es hat irgendwie so eine gewisse E-Commerce-Lastigkeit, die nicht unbedingt immer zum Finanzdienstleistungssektor passt."
+[I7, Abs. 14] „Ich finde das Format, was wir da haben, ist teilweise sehr 'Otto Group'-lastig und manche Bewertungskriterien passen einfach gar nicht auf uns."
+K2.4 Subjektive Skaleninterpretation
+[I6, Abs. 15] „Besonders wenn man so sagt: Bewerten von 1 bis 10 und so weiter… meine 10 kann anders aussehen als die andere 10."
+K3 Skalenniveau (Länge & Format)
+K3.1 Ablehnung der neutralen Mitte
+[I1, Abs. 29] „Da muss man schon auch eine klare Position beziehen und sagen, entweder ist es jetzt ein Entwicklungsfeld oder sie hat sehr stark darin agiert."
+[I2, Abs. 39] „Ich mag die Mitte nicht so gerne. Ich finde, dann muss man sich entscheiden."
+[I4, Abs. 32] „Nee, würde ich nicht, weil dann würde jeder draufklicken."
+[I5, Abs. 33] „No, I would not want a neutral middle option on the scale."
+[I7, Abs. 30] „Nee, ich mag neutrale Mitten nicht bei Befragungen, weil es einen immer davor schützt, sich entscheiden zu müssen, ob es eher gut oder eher schlecht war."
+K3.2 Wunsch nach neutraler Mitte
+[I3, Abs. 35] „Yeah, that would be better. When you really don't know how to answer and don't have a concrete example to link to that question."
+[I6, Abs. 35] „Ja, besonders weil man die Fragen manchmal nicht korrekt beantworten kann."
+K3.3 Bauchgefühl bei 5/6
+[I2, Abs. 37] „Es ist natürlich viel Bauch immer dabei. Objektivierbar ist das echt schwierig, aber das ist ein bisschen die Herangehensweise, mit der ich es versuche."
+[I3, Abs. 33] „Yes, well probably that was the answer to most of the questions because I was looking how what are our results in the end…"
+[I4, Abs. 28] „Bauchgefühl. Komplettes Bauchgefühl. Also ich hatte keine Kriterien."
+[I5, Abs. 29] „Yes, it's not super easy, but it's like intuitive."
+K3.4 Klare Kriterien für 5/6
+[I1, Abs. 27] „Bei einer 6 müssten das schon sehr innovative Aspekte mit Bestandteil sein, damit man sagt, das sticht außerordentlich hervor… Für eine 5 dann eine kontinuierliche Verbesserung."
+[I7, Abs. 26] „Ich hätte eine 6 vergeben, wenn jemand kontinuierlich auch neue Ideen reinbringt, aber sie nicht nur reinbringt, sondern auch umsetzen kann und den Menschen erklären kann, warum wir Dinge umsetzen."
+K4 Layout / Antwortformat
+K4.1 Freitext als wertvolle Ergänzung
+[I1, Abs. 11] „Diese Freitextfelder, wo man selber noch mal Impulse setzen kann, die jetzt aus den Kategorien davor nicht hervorgehen oder aus der Skalenbewertung."
+[I7, Abs. 34] „Ich achte immer am meisten auf den Freitext, was da eigentlich drinsteht, weil da meistens die wertvolleren Informationen drin sind."
+K4.2 Variation Antwortformat positiv
+[I3, Abs. 39] „Even for you when you are analyzing, you can get more specific answers and maybe a clearer picture of what I wanted to answer."
+[I4, Abs. 36] „Da konnte ich diese Erwartungshaltung einfach reinbringen und dann wussten hoffentlich sie am Ende: Okay, Regionalmanagement erwartet von mir genau diese drei Punkte."
+[I5, Abs. 37] „I would put it with every question, this free text part, because it provides the person who is being evaluated that what is — how do I actually perceive or understand this question."
+K4.3 Erwartungs-Freitext schwierig
+[I6, Abs. 43] „Hat man schon davor so viele Beispiele genannt und dann musste man ungefähr das zusammenfassen. […] Eigentlich solltest du das alleine machen, das Zusammenfassen von dem, was man davor bewertet hat."
+[I7, Abs. 32] „Als ich es zum ersten Mal gemacht habe, fand ich es schwierig, die Erwartungen auch zu schreiben überhaupt und das dann danach zu bewerten."
+K5 Verfahrenszweck
+K5.1 Entwicklungszweck
+[I2, Abs. 45] „Der Entwicklung und Verbesserung, Feedback zu bekommen, Mitarbeiterentwicklung."
+[I4, Abs. 42] „Erstmal klarzustellen: Was erwartet man von einem MD bei EOS? Das Zweite war, die Entwicklungsfelder zu finden."
+[I5, Abs. 39] „Oh, it was to create more open feedback culture in the company, I think."
+K5.2 Administrativer / Kontroll-Zweck
+[I1, Abs. 19] „Beim 360-Grad-Feedback ist schon mehr dieses Verständnis: Okay, es guckt auch jemand darauf, um die Leistung von Julianne zu beurteilen."
+[I1, Abs. 21] „Das 360-Grad-Feedback im Gegensatz zum Entwicklungsgespräch hat einen höheren Kontrollgrad, so würde ich das mal so sagen."
+[I7, Abs. 36] „Es zielt leider gar nicht so sehr auf Weiterentwicklung, es zielt eher auf Bewertung. […] Es hat so eine 'du bist gut oder du bist schlecht'-Thematik."
+K5.3 Mischzweck / ambivalent
+[I3, Abs. 43] „Well, something in between. I would say it's not completely right for development in my opinion, […] but it's more like how they see specific situations and how they perceive it."
+[I6, Abs. 47] „Der erste war, weil einige das machen mussten. Aber es gab auch […] dass die auch so 'constructive feedback' kriegen, um die Zusammenarbeit zu verbessern."
+K5.4 Fehlende Nachbearbeitung / Follow-up
+[I1, Abs. 73] „Dann dass ich das einbetten würde in einen Gesamtprozess, sodass das nicht nur einmal im Jahr dann relevant und präsent ist."
+[I7, Abs. 80] „Auf jeden Fall, dass es danach besprochen wird. Also dass es irgendeine Form gibt von Nachbearbeitung […]. Dass das nicht einfach so versackt."
+K6 Freiwilligkeit der Teilnahme
+K6.1 Pflichtempfinden
+[I1, Abs. 15] „Dementsprechend habe ich das ja als formalen Bestandteil gesehen, den sie als Geschäftsführer machen muss."
+[I4, Abs. 60] „Ich glaube, es war Pflicht."
+K6.2 Freiwilliges Engagement
+[I2, Abs. 57] „Ich habe die Teilnahme als freiwillige Aufgabe erlebt, nicht als Pflicht."
+[I4, Abs. 60] „Aber ich habe das sehr gern und freiwillig gemacht."
+[I7, Abs. 48] „Manchmal fand ich es auch total cool, weil ich mit der Person… dass die mich gefragt hat überhaupt."
+K6.3 Personen-/situationsabhängig
+[I6, Abs. 65] „Bei einigen war es wie eine Pflicht und bei anderen war so: 'Ja, das macht Sinn.'"
+[I7, Abs. 48] „Also kommt drauf an, würde ich sagen, bei wem ich Feedback gegeben habe."
+K7 Feedbackkultur
+K7.1 Harmoniebedürfnis / Harmoniebiotop (DE)
+[I1, Abs. 35] „Wir verwenden immer so ein bisschen das Wording, dass wir so ein bisschen so eine Harmonie-Biophobie haben. Ich glaube, da sticht Deutschland schon so ein bisschen hervor."
+[I2, Abs. 53] „Die EOS Feedback-Kultur ist für mich an vielen Stellen so, dass man sehr freundlich miteinander umgeht, aber sich wenig offenes und direktes Feedback gibt. […] Eine 4."
+[I7, Abs. 46] „Wir sind nur so ein Harmoniebiotop und das verhindert auch ganz oft Feedback."
+K7.2 Offene / direkte Kultur
+[I3, Abs. 51] „It's really open, it's good atmosphere."
+[I4, Abs. 58] „Per se direkt. Also direktes Feedback. […] Ich finde 8 eine gute Zahl."
+[I5, Abs. 51] „I think it's open and healthy generally. […] 7 to 8 possible."
+[I6, Abs. 59] „Gut und direkt und fair meistens."
+K7.3 Subkulturen je Bereich / Team
+[I4, Abs. 52] „Es gibt unterschiedliche Kulturen bei EOS. […] ist ziemlich unterschiedlich und deswegen gibt es unterschiedliche Feedback-Kulturen."
+[I7, Abs. 44] „Wir haben sehr starke Subkulturen, was das angeht, sodass es in manchen Bereichen schon sehr, sehr ausgeprägt und sehr gut ist und in anderen so gut wie gar nicht vorkommt."
+K7.4 Fehlende Streitkultur
+[I1, Abs. 37] „Eine Streitkultur gibt es noch weniger bei uns, finde ich."
+[I7, Abs. 46] „Wir haben keine Streitkultur einfach."
+K8 Hierarchie- & Arbeitsverhältnis
+K8.1 Sichtbarkeit für Vorgesetzte
+[I1, Abs. 21] „Wenn ich weiß, dass da noch jemand Drittes draufguckt, auch wenn ich vielleicht sehr ehrliche Punkte habe, die ich als Feedback geben möchte."
+[I7, Abs. 40] „Aber wie gesagt, ich würde da jetzt auch nicht die härteste Kritik reinschreiben […], weil ich auch weiß, dass das dann an andere Leute geht, um die Person zu beurteilen."
+K8.2 Horizontale Interdependenz
+[I6, Abs. 57] „Bei einigen wäre das eher sehr schlecht dann gesehen und dann wird die Arbeitsbeziehung ein bisschen schwieriger."
+K9 Wahrgenommene Anonymität
+K9.1 Anonymität als gegeben
+[I3, Abs. 47] „Actually when I was doing it I was completely open and really didn't think that much what will be the final outcome."
+[I7, Abs. 50] „Das schon, ist ja anonym. Also ja, da hatte ich jetzt kein Thema mit."
+K9.2 Anonymität faktisch zweifelhaft
+[I2, Abs. 51] „Das ist in 90 % der Fälle so, aber ich habe keine Bedenken. Ich weiß es halt. Es ist relativ klar, wer wie wo schreibt. Bei 5-6 Leuten ist das relativ gut identifizierbar."
+[I4, Abs. 50] „Man konnte auch seinen Namen dahinter schreiben in manchen. […] Ich glaube, der erste hätte eh gewusst, von wem das kommt."
+[I6, Abs. 15] „Es ist zwar anonym, aber man muss auch, wenn man ein Beispiel gibt, normalerweise ist man dann nicht mehr anonym, weil vom Kontext her kannst du schon ungefähr wissen, wer das ist."
+K9.3 Bedenken bei Freitext
+[I6, Abs. 55] „Ja, ich hatte Bedenken bezüglich der Anonymität meiner Antworten, vorallem bei den Freitexten."
+[I6, Abs. 57] „Bei einigen war ich sehr 'aware', dass ich das am besten nicht mache, und bei anderen war mir scheißegal."
+K10 Psychologische Sicherheit
+K10.1 Hohe Sicherheit (≥ 8)
+[I1, Abs. 43] „8."
+[I2, Abs. 59] „Absolut gut. Es gab keine Stellen, an denen ich gezögert habe oder irgendwas angegeben habe, was ich nicht meine."
+[I4, Abs. 58] „Für mich eigentlich fast so 8 vielleicht. Richtung 8. Also ich finde sie gut, weil wir eine grundsätzlich so eine offene Kommunikation haben."
+K10.2 Mittlere Sicherheit (6–7)
+[I5, Abs. 55] „6. […] Yes. Because I'm not part of their work environment — it's my impression about the person. I don't work with the person all the time."
+[I6, Abs. 61] „Mit meinem Vorgesetzten würde ich schon eine 8 sagen. […] Und dann zwischen den Kollegen und so… so um die 7."
+K10.3 Personenabhängige Sicherheit
+[I6, Abs. 57] „Es war abhängig, an wen das war, muss ich sagen. Bei einigen war ich sehr 'aware', dass ich das am besten nicht mache."
+K12 Halo-Effekt
+K12.1 Gesamtbild dominiert Einzelurteile
+[I1, Abs. 53] „Bevor ich jetzt irgendwas ankreuze, was ich irgendwo im Mittelfeld befinde, würde ich erst mal diese Kategorie offenlassen."
+[I6, Abs. 79] „Ich würde sagen ich habe dann eher ein Gesamtbild bewertet."
+[I7, Abs. 60] „Man hat ja immer ein Gesamtbild, das beeinflusst die komplette Bewertung, glaube ich."
+K12.2 Allgemeines Grundgefühl als Maßstab
+[I2, Abs. 71] „Ich versuche dann ein Grundsatzgefühl darzustellen, wie ich die Person in dieser Kategorie wahrnehme. Ich mache mir Stichpunkte und schreibe was Allgemeineres rein, aber nicht spezifisch auf eine Situation bezogen. Ein Gesamtbild."
+[I3, Abs. 67] „More general perception of the person."
+K13 Recency-Effekt
+K13.1 Dominanz der letzten Wochen / Monate
+[I2, Abs. 75] „Klar, schon eine sehr partielle Wahrnehmung. Was kürzlich war, was gut oder schlecht aufgefallen ist."
+[I6, Abs. 81] „Eher die Erfahrungen oder die Beispiele, die man die letzten sechs Wochen dann erlebt hat, als was man vor sechs Monaten gemacht hat oder so."
+[I7, Abs. 64] „Im Normalfall würde ich sagen, hat man maximal die letzten drei Monate auf dem Zettel."
+K13.2 Erinnerungslücken bei älteren Ereignissen
+[I1, Abs. 59] „Jüngere Ereignisse einfach viel präsenter hast als das, was vor zehn Monaten passiert ist."
+[I4, Abs. 74] „Aber halt natürlich am Anfang sind halt so die präsentesten Themen da."
+K13.3 Nur schillernde Ereignisse bleiben
+[I1, Abs. 59] „Das muss schon sehr einschneidend gewesen sein, positiv oder negativ."
+[I7, Abs. 64] „Vielleicht wenn es ein sehr schillerndes Ereignis gab oder sehr schwieriges, was auch länger zurückliegt, dann kann es sein, dass das noch einfließt, weil es so einprägsam war."
+K14 Schemata / Stereotype
+K14.1 MD-Rolle als Bewertungsanker
+[I1, Abs. 63] „Bei jemandem, der jetzt in einer Geschäftsführungsposition ist, ist einfach eine andere Erwartungshaltung damit verbunden und dementsprechend bewerte ich das auch anders."
+[I4, Abs. 10] „Man erwartet, auch in bestimmten Situationen trotzdem Entscheidungen treffen zu können, innovativ zu sein… und das fand ich sehr interessant."
+[I5, Abs. 75] „Yes that was definitely a thought when I didn't have a specific situation I thought that's a part of the role or the job."
+K14.2 Standarderwartung an Geschäftsführer
+[I2, Abs. 41] „Ich habe eine Standarderwartung, die ich immer für alle Geschäftsführer habe."
+K14.3 Aktive Ablehnung des Rollenarguments
+[I6, Abs. 27] „Das ist immer so für mich so eine 'Bullshit-Frage'. Weil in der Theorie, wenn man auf bestimmten Positionen ist, ist das auch Teil von deren Job, das zu machen. Wenn die das nicht machen, sind sie nicht in der richtigen Position."
+[I7, Abs. 68] „Nee, hatte ich eher nicht. Bloß weil es dazugehört, heißt es ja noch lange nicht, dass derjenige es auch gut macht."
+K15 Leniency / Milde-Effekt
+K15.1 Generell positivere Bewertung
+[I2, Abs. 63] „Eher positiveres. […] Dann finde ich Stärken stärken den wichtigeren Approach."
+[I3, Abs. 61] „Generally more positive and optimistic person and I always want to give maybe I'm more oriented towards positive answers."
+[I4, Abs. 64] „Also ich tendiere zu positiverem Feedback. Weil man den Leuten dann auch gerne… ich glaube, wir sind sehr oft auch kritisch mit uns selbst."
+K15.2 Vermeidung scharfer Kritik
+[I7, Abs. 40] „Aber wie gesagt, ich würde da jetzt auch nicht die härteste Kritik reinschreiben, weil ich das unangemessen finde."
+[I7, Abs. 16] „Ich empfinde das nicht als Instrument, um Kritik zu äußern, die vorher noch nie geäußert worden ist. […] Das darf eigentlich immer nur zusammenfassen, was man eh im Gespräch hat."
+K15.3 Bei Unsicherheit positiv
+[I6, Abs. 85] „Dann eher positiv, dann muss ich sagen, wenn ich unsicher war, habe ich eher positiv bewertet als negativ bewertet."
+[I6, Abs. 79] „In den Fällen, wo ich keine Beispiele hätte, habe ich versucht zu schauen, ob die Beispiele, die ich schon genannt habe, unterstützen könnten."
+K15.4 Gefälligkeitsgutachten allgemein
+[I1, Abs. 55] „Wie häufig die ankreuzen 'absoluter Leistungsträger', was einfach in der Verteilung von der Gesamtbelegschaft gar nicht sein kann."
+[I7, Abs. 40] „Es wird auch oft gesagt, dass das eh nichts aussagt, weil alle dann nur so ein Gefälligkeitsgutachten abgeben."
+K16 Soziale Erwünschtheit
+K16.1 Schutz der bewerteten Person
+[I7, Abs. 66] „Ja, ich hatte bedenken das das noch andere Personen lesen und ich wollte die Person nicht…"
+[I7, Abs. 50] „Wie gesagt, ne, wenn dann eher aufgrund der Tatsache, dass ich weiß, ne, ich will jemanden nicht in die Pfanne hauen."
+K16.2 Awareness über Mitleser
+[I1, Abs. 33] „Es war mir schon bewusst, dass irgendeine dritte Partei hier noch mal draufschauen wird."
+[I6, Abs. 57] „Bei anderen wäre das eher sehr schlecht dann gesehen und dann wird die Arbeitsbeziehung ein bisschen schwieriger."
+K16.3 Filtern kritischer Inhalte
+[I6, Abs. 57] „Bei einigen war ich sehr 'aware', dass ich das am besten nicht mache, und bei anderen war mir scheißegal, weil auch wenn die das wussten."
+K17 Motivation
+K17.1 Hohe persönliche Bedeutung von Feedback
+[I3, Abs. 55] „For me it is important. […] I think it's very important for us at this position when you have some kind of bigger rights or authorities to have a clear communication."
+[I5, Abs. 63] „Super important. […] So for me whatever you have as a feedback is important so that I know what things should I change."
+[I7, Abs. 52] „Eine große. Also ich finde… ich würde mir viel mehr Feedback wünschen, ne? Auch für mich."
+K17.2 Zeitknappheit / kurz vor Deadline
+[I2, Abs. 61] „Ich hatte während der Arbeit eher wenig Zeit zum Ausfüllen des Fragebogens."
+[I6, Abs. 71] „Kurz vor Abgabe. Also wir hatten auch Reminders per E-Mail gekriegt, immer so zwei Tage davor."
+K17.3 Zweifel an Wirksamkeit
+[I1, Abs. 13] „Diese Bewertung steht halt, zumindest in meinem Empfinden, da relativ isoliert für sich da. […] Vor allen Dingen auch, was dann danach passiert."
+[I7, Abs. 80] „Wenn ich mir vorstelle, ich mache das jetzt noch mal wieder zwei Jahre und wieder zwei und immer für die gleiche Person, dann wird man irgendwann faul. Also wenn du nicht das Gefühl hast, das bringt irgendwas."
+K17.4 Engagement durch Follow-up / Gespräch
+[I1, Abs. 11] „Was sie gemacht hat, nachdem wir individuell das Feedback gegeben haben, haben wir uns halt mit all ihren Directs zusammengesetzt und das besprochen."
+[I6, Abs. 19] „Das fand ich super hilfreich und interessant."
+K18 Beobachtungs- & Urteilskompetenz
+K18.1 Fehlende konkrete Situationen
+[I2, Abs. 69] „Ja, viele. Bei fast jeder Rubrik eine konkrete Situation oder ein Beispiel zu finden, finde ich jedes Mal schwierig."
+[I3, Abs. 23] „Of course, to some questions you didn't have specific situations to answer concretely."
+[I7, Abs. 56] „Bei manchen Personen ja, wenn ich so Personen bewerten musste, mit denen ich nicht so ganz viel zu tun habe."
+K18.2 Nutzung von 'No feedback possible'
+[I1, Abs. 53] „Ansonsten würde ich es weglassen, einfach gar nichts dazu äußern. […] würde ich erst mal diese Kategorie offenlassen."
+[I4, Abs. 70] „Ehrlich würde ich sagen: 'No feedback possible', wenn ich da wirklich keine Situation hatte."
+[I7, Abs. 58] „Wenn ich es wirklich nicht bewerten konnte, habe ich es nicht bewertet."
+K18.3 Rückgriff auf indirekte Informationen
+[I3, Abs. 25] „I just answered like that we are trying to have good communication with all colleagues when they are reaching to us."
+[I5, Abs. 73] „As I said, more intuitive from what I heard from other people, from my opinion how the that company or process or person are doing their business."
+K18.4 Bewertung auf Basis Gesamtbild bei Datenmangel
+[I6, Abs. 79] „Ich würde sagen ich habe dann eher ein Gesamtbild bewertet."
+K19 Sympathie (Rater Affect)
+K19.1 Bewusstes Übersehen kleinerer Schwächen
+[I1, Abs. 55] „Wenn man sich da jemanden aussucht oder die Möglichkeit hat, von jemandem bewertet zu werden, wo man einfach ein gutes Verhältnis hat […], dann spielt das auf jeden Fall mit eine Rolle."
+[I2, Abs. 73] „Ja, dem würde ich voll und ganz zustimmen."
+[I4, Abs. 72] „Ja klar! Das ist einfach ganz normal, Bias und menschlich, klar."
+K19.2 Beziehungsebene als stärkster Einflussfaktor
+[I2, Abs. 77] „Die Beeinflussung kommt über das Grundgefühl der Person gegenüber. Da spielt Sympathie sicherlich auch eine Rolle."
+[I6, Abs. 89] „Die Beziehung zu der Person."
+[I7, Abs. 70] „Ich glaube wirklich die Beziehungsebene zur Person. […] Ich glaube massiv hat diese Beziehungsebene einen Einflussfaktor auf die Bewertung."
+K19.3 Persönliche Historie / lange Zusammenarbeit
+[I1, Abs. 15] „Es hängt da immer vom aktuellen Verhältnis ab, das man untereinander hat."
+[I4, Abs. 80] „Ich hatte mit allen drei MDs eine sehr lange Zusammenarbeit hinter mir halt einfach in der Vergangenheit. […] Du hast schon sehr viel persönliche Historie mit diesen Personen. Und das beeinflusst natürlich auch irgendwo die Bewertung."
+[I6, Abs. 47] „Aber bei einigen, würde ich sagen, gibt es ein Risiko, wenn man ehrliches Feedback gibt."
+3.6 Concept Map — Zusammenhänge zwischen Kategorien
+Die folgende Concept Map beschreibt die wichtigsten Zusammenhänge zwischen den Kategorien in Textform. Pfeile (→) markieren Wirkrichtungen, Doppelpfeile (↔) wechselseitige Verstärkungen.
+Zentrale Wirkungspfade
+1. Beziehungsachse: K19 Sympathie → K12 Halo-Effekt → K15 Leniency. Die Sympathie zur bewerteten Person produziert einen halo-getragenen Gesamteindruck und führt zu milderen Bewertungen. Diese Achse erscheint in nahezu allen Interviews (I1, I2, I4, I6, I7).
+2. Kontroll-/Sichtbarkeits-Achse: K5 (administrativer Zweck) → K8 (Sichtbarkeit für Vorgesetzte) → K16 (soziale Erwünschtheit) → K15 (Leniency). Die Wahrnehmung des Feedbacks als Bewertungsinstrument verstärkt die soziale Erwünschtheit und produziert über Vorsicht eine systematische Mildetendenz (I1, I7 besonders ausgeprägt).
+3. Datenbasis-Achse: K18 (Beobachtbarkeit) → K12 (Halo) und/oder K14 (Schemata). Datenmangel wird durch Gesamtbildbewertung oder durch Rollenstereotype kompensiert (I5 prototypisch).
+4. Sicherheitsachse: K7 (Feedbackkultur) ↔ K10 (psychologische Sicherheit) → K9 (Anonymitätsvertrauen). Eine harmoniebedürftige Kultur senkt die Sicherheit, ehrlich zu antworten; zugleich nimmt sie Bedenken über durchbrochene Anonymität ernster.
+5. Motivations-Achse: K5.4 (fehlende Follow-ups) → K17.3 (Zweifel an Wirksamkeit) → K17.2 (Zeitknappheit / Kurz-vor-Deadline) → K1.3 (Konzentrationsverlust). Sichtbare Nachbearbeitung (K17.4) wirkt diesem Pfad entgegen.
+6. Erinnerungsachse: K13 (Recency) → K18 (Beobachtbarkeit) → K12 (Halo). Bei zwei-Jahres-Zyklen erinnern Rater im Mittel nur die letzten 1–3 Monate; ältere Beispiele fehlen, ein Gesamtbild übernimmt.
+Schematische Darstellung
+INSTRUMENTELL                            ORGANISATIONAL                          INDIVIDUELL
+K1 Länge → K17 Motivation                K5 Zweck → K17 Motivation                K17 → K1 Konz.-verlust
+K2 Items → K18 Beob.barkeit              K7 Kultur ↔ K10 Sicherheit               K10 → K15 Leniency
+K3 Skala → K18 (Bauchgefühl)             K8 Hierarchie → K16 Erwünschtheit        K18 → K12 Halo
+K4 Layout → K4.1 Freitext-Tiefe          K9 Anon. → K10 Sicherheit                K13 Recency → K18
+                                                                                  K14 Stereotype → K18
+                                                                                  K19 → K12 → K15
+                                                                                  K17.4 Follow-up → K17.1
+Kernerkenntnis: Die individuellen Faktoren (K12, K15, K19) wirken am Endpunkt einer Wirkungskette zusammen. Sie sind in der Beobachtung am direktesten messbar (alle Interviews bestätigen die Beziehungs-/Sympathiewirkung), entstehen aber häufig aus organisationalen Vorbedingungen (Sichtbarkeit, fehlende Follow-ups) und instrumentellen Lücken (fehlende Mittelkategorie, Bauchgefühl-Skala).
+4 TEIL 3: Ergebnisinterpretation
+4.1 Beantwortung der Forschungsfrage
+Forschungsfrage: Welche Einflussfaktoren wirken auf die Bewertung im 360-Grad-Feedback auf Managing-Director-Ebene im Kontext bei EOS?
+Die qualitative Inhaltsanalyse zeigt, dass die Bewertung im 360-Grad-Feedback auf MD-Ebene bei EOS durch ein Zusammenspiel aller drei Dimensionen geprägt wird, wobei vier Faktoren als dominant herausstechen: (1) Sympathie und Beziehungsebene (K19), (2) die wahrgenommene Feedbackkultur (K7), (3) die fehlende oder unzureichende Beobachtungsbasis (K18) und (4) der wahrgenommene Verfahrenszweck (K5).
+Mehr als die Hälfte aller Interviewten nennt die Beziehungsebene zur bewerteten Person als wichtigsten Einflussfaktor („Ich glaube wirklich die Beziehungsebene zur Person." — I7). Diese Sympathie wirkt über einen klassischen Halo-Effekt (K12) — die Person wird primär anhand eines Gesamteindrucks bewertet — und mündet in eine systematische Mildetendenz (K15), in der scharfe Kritik bewusst zurückgehalten wird.
+Die Feedbackkultur bei EOS Deutschland wird durchgängig als „Harmoniebiotop" (I7) oder „Harmonie-Biophobie" (I1) charakterisiert, in dem negatives Feedback selten offen geäußert wird. Diese kulturelle Norm wirkt verstärkend auf Leniency und soziale Erwünschtheit. Internationale Standorte (BIH, Croatia) werden hingegen tendenziell als offener beschrieben (I3, I5, I6).
+Strukturell wirkt der Verfahrenszweck: Wo das Feedback überwiegend als Bewertungs- oder Kontrollinstrument wahrgenommen wird (I1, I7), entsteht eine zusätzliche Schicht sozialer Erwünschtheit, da Rater wissen, dass Vorgesetzte und Group HR die Ergebnisse einsehen. Das fehlende Follow-up wird als Hauptkritikpunkt des Verfahrens benannt — es senkt die Motivation für sorgfältige, kritische Bewertungen über die Zeit.
+Auf der instrumentellen Ebene ist die Skalenkonstruktion entscheidend: Die 1–6-Skala wird von der Mehrheit befürwortet (klare Tendenz erzwingen), zugleich zeigt die Analyse jedoch, dass die Differenzierung zwischen 5 und 6 in den meisten Fällen rein intuitiv erfolgt („Bauchgefühl. Komplettes Bauchgefühl." — I4). Bei fehlender Beobachtung wünschen sich zwei Interviewte (I3, I6) eine neutrale Mitte, während fünf sie ablehnen.
+4.2 Relevanzanalyse der theoretischen Einflussfaktoren
+Besonders relevante Faktoren (in jedem oder fast jedem Interview)
+
+Mittelstark relevante Faktoren
+
+Weniger relevante Faktoren
+
+Hinweis: Alle in die Analyse einbezogenen theoretischen Einflussfaktoren konnten im Material rekonstruiert werden.
+4.3 Neue / unerwartete Befunde
+Im Material treten Aspekte auf, die in der bisherigen Theorie weniger prominent diskutiert wurden:
+1. Item-/Branchenpassung als eigenständige Wahrnehmung (K2.3)
+Eine Befragte (I7) benennt wiederholt eine wahrgenommene „E-Commerce-Lastigkeit" oder „Otto-Group-Lastigkeit" einzelner Items, die nicht zum Finanzdienstleistungssektor passe. Dieser branchenspezifische Item-Passungseffekt erweitert den klassischen Item-Ambiguity-Faktor um eine Kontext-Validitätsdimension.
+2. Subjektive Skaleninterpretation als eigenständiges Phänomen (K2.4)
+I6 weist auf einen Aspekt hin, der über reine Item-Mehrdeutigkeit hinausgeht: „Meine 10 kann anders aussehen als die andere 10." Hier wird nicht das Item, sondern der Skalenanker selbst als individuell interpretiert erlebt — ein Phänomen, das zwischen K2 und K3 angesiedelt ist und in der reinen Theorie meist unter Item-Ambiguity subsumiert wird.
+3. „Erwartungs-Freitext" als kognitiv anspruchsvoll (K4.3)
+Die letzte Erwartungsfrage wird ambivalent erlebt: einerseits als reflexionsfördernd (I3, I4), andererseits als kognitiv anstrengend und teilweise redundant zur vorhergehenden Bewertung (I6, I7). Dies ist ein bislang nicht prominent theoretisierter Layout-Effekt.
+4. Fehlende Nachbearbeitung als Motivationskiller (K5.4)
+Die fehlende Nachbearbeitung wird in mehreren Interviews als zentraler Kritikpunkt benannt (I1, I7) und wirkt motivational dämpfend für künftige Feedbackzyklen. Dies erweitert den klassischen Verfahrenszweck-Faktor um eine prozessuale Komponente.
+5. Persönliche Historie als langfristiger Halo (K19.3)
+Lange Zusammenarbeitsgeschichten (I4: alle drei bewerteten MDs waren ehemalige Vorgesetzte) wirken als langfristiger Sympathiebias, der über die klassische Recency-Effekt-Theorie hinausgeht und gerade auf MD-Ebene strukturell relevant ist.
+4.4 Muster und Zusammenhänge
+Muster 1: Sympathie-Halo-Leniency-Triade
+Die drei individuellen Kategorien K19 → K12 → K15 bilden einen empirisch besonders stabilen Wirkverbund. In sechs von sieben Interviews lassen sich alle drei gemeinsam nachweisen. Sympathie wirkt selten isoliert, sondern fast immer über einen Gesamteindruck und mündet in der Vermeidung scharfer Kritik.
+Muster 2: Kontroll-Awareness-Filter
+Wo der Zweck als administrativ/kontrollierend wahrgenommen wird (K5.2), tauchen mit hoher Regelmäßigkeit Hierarchie-Bewusstsein (K8.1) und soziale Erwünschtheit (K16.2) auf. Dies ist besonders bei I1 und I7 zu beobachten — beide DE-basierte Rater mit Vorgesetzten-Bewertung.
+Muster 3: Datenmangel-Substitution
+Wenn die Beobachtungsbasis schwach ist (K18.1), wählen Rater entweder die explizite Nicht-Bewertung (K18.2), greifen auf indirekte Information zurück (K18.3) oder substituieren mit dem Gesamtbild (K18.4) bzw. der MD-Rollenerwartung (K14.1). I5 prototypisch zeigt: indirektes Wissen (K18.3) → Schemata (K14.1).
+Muster 4: Recency-Halo-Kompensation
+Beim Zwei-Jahres-Zyklus erinnern Rater nur die letzten 1–3 Monate (K13.1); die so entstehende Erinnerungslücke wird durch ein Gesamtbild (K12.1) gefüllt. Nur „schillernde Ereignisse" (K13.3) durchbrechen diesen Mechanismus.
+Muster 5: Freitext-Anonymitäts-Dilemma
+Die Aufforderung zu konkreten Beispielen im Freitext steht in Konflikt mit dem Anonymitätsversprechen, da Beispiele kontextuell identifizierbar sind (K9.2, K9.3). Dies erzeugt eine instrumentelle Spannung, die besonders I6 benennt.
+4.5 Unterschiede zwischen Feedbackgebern — eine Typologie
+Auf Basis der Codierungen lassen sich vier idealtypische Feedback-Geber-Profile rekonstruieren:
+Typ A: Der „Ehrlich-strukturierte Pragmatiker" (I1, I7)
+Sehr klare Kriterien für die Skala (5 vs 6 inhaltlich begründet), starke Awareness des Kontrollzwecks, bewusster Verzicht auf harte Kritik im Tool („das gehört ins persönliche Gespräch"), kritisch gegenüber dem Verfahren selbst (fehlende Follow-ups). Diese Rater wirken professionell-reflektiert, aber genau deshalb tendenziell zurückhaltend bei kritischen Einschätzungen.
+Typ B: Der „Bauchgefühl-Positivist" (I3, I4)
+Bewertet überwiegend aus dem Bauch heraus, betont positive Tendenzen, nutzt aber bewusst „No feedback possible" bei fehlender Beobachtung. Sympathiebedingte Schwächen-Übersehen werden offen eingeräumt. Reflexionsbereit, aber mit deutlichem Leniency-Bias.
+Typ C: Der „Distanzierte Außenstehende" (I5)
+Geringe Berührungspunkte mit den Bewerteten, bewertet auf Basis indirekter Informationen und Schemata. Niedrigere psychologische Sicherheit (6/10), gibt im Zweifel „benefit of the doubt". Stellt eine methodische Herausforderung des Verfahrens dar.
+Typ D: Der „Vorsichtig-Adaptive" (I2, I6)
+Passt das Antwortverhalten situativ an: Bei vertrauten Personen offen, bei riskanten Konstellationen vorsichtig (K10.3). Sieht Anonymität skeptisch (K9.2, K9.3) und filtert kritische Inhalte bewusst (K16.3). Erkennt aktiv das Spannungsfeld zwischen Ehrlichkeit und Selbstschutz.
+4.6 Implikationen für die Verbesserung des 360-Grad-Feedbacks bei EOS
+Aus den Befunden lassen sich konkrete Ansatzpunkte ableiten:
+1. Verbindliche Nachbearbeitung etablieren: Der dominanteste Verbesserungswunsch (genannt in I1, I6, I7) ist ein systematisches Follow-up. Dies würde Motivation (K17.3 → K17.4) und Verfahrenszweck (K5.2 → K5.1) gleichzeitig adressieren.
+2. Forced-Choice oder asymmetrische Skala bei kritischen Items: Adressiert Leniency (K15) und Halo (K12) direkt.
+3. Item-Passung für Finanzdienstleistung: Branchenspezifische Reformulierung „EOS-typischer" Items (K2.3).
+4. Verbesserung der Anonymitäts-Awareness: Klärung über Freitext-Aggregation reduziert K9.3-Bedenken.
+5. Schulung zur Recency-Sensibilisierung: Kürzere Feedbackzyklen oder ergänzende Quartals-Reminder adressieren K13.1.
+6. Mittelkategorie als kontrollierte Option: Eine differenzierte Lösung wäre nicht eine generelle Mitte, sondern eine zusätzliche „Nicht beobachtet"-Option (K18.2 ausbauen) zur Vermeidung von Bauchgefühl-Mittelbewertungen (K3.3).
+4.7 Methodische Limitationen
+Die Stichprobe von n = 7 Interviews erlaubt belastbare qualitative Tiefenanalyse, aber keine quantitative Verallgemeinerung. Die Sättigung der induktiven Subkategorien wurde gegen Ende des Materials weitgehend erreicht — Interview 7 brachte mit „Otto-Group-Items" (K2.3) noch eine spät auftretende Subkategorie hervor, was auf eine weiterhin sinnvolle Erweiterung der Stichprobe in Folgestudien hinweist. Selbstauskunftsbias der Rater (insbesondere bei K15 Leniency und K19 Sympathie) ist methodisch nicht zu vermeiden — die offene Thematisierung in mehreren Interviews spricht jedoch für eine hohe Reflexionsbereitschaft.
