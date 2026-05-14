@@ -109,8 +109,19 @@ Empfehlungen dürfen nur auf Instrumenten basieren, die vorher **theoretisch ein
 - **Shadowing:** Ein MD besucht einen anderen MD in einem anderen Land. Sie beobachten sich gegenseitig im Arbeitsalltag und geben anschließend strukturiertes, dialogisches Feedback. Vorteil: Echte Beobachtung statt Erinnerung, keine Skalenzwänge, Beziehungsaufbau über Ländergrenzen.
 - **Zweites Instrument:** noch offen — mögliche Optionen sind dialogbasierte Peer-Reviews, Development Center oder Coaching-Formate. Gemeinsam mit Jule entscheiden.
 
+### Kernthese / Zentrale Interpretation (das eigentliche Argument der Arbeit)
+Die Interviewergebnisse sollen so interpretiert werden, dass die beobachteten Einflussfaktoren **nicht nur Optimierungspotenziale am Instrument** darstellen, sondern als **Symptome einer konzeptionellen Grenze** des 360-Grad-Feedbacks auf MD-Ebene zu deuten sind. Das Instrument stößt auf dieser Führungsebene strukturell an seine Grenzen — und deshalb braucht es ein anderes Format.
+
+Diese Interpretation ist der Kern von Forschungsfrage 2 und muss empirisch hergeleitet werden:
+- Aus den Interviews belegen, dass die Einflussfaktoren **nicht wegoptimierbar** sind (z.B. Beziehungsebene, Recency Effect, fehlende Beobachtungsmöglichkeiten sind strukturell auf MD-Ebene verstärkt)
+- Zeigen, dass kurzfristige Verbesserungen zwar möglich, aber **nicht ausreichend** sind
+- Daraus logisch ableiten: Es braucht ein Instrument mit anderer Grundlogik (dialogisch, beobachtungsbasiert statt skalenbasiert-aggregierend)
+- Shadowing und zweites Instrument als konkrete Alternativen vorschlagen
+
+**Wichtig:** Diese Interpretation muss vorsichtig und wissenschaftlich formuliert werden — nicht als absolute Wahrheit, sondern als begründete Schlussfolgerung aus den empirischen Befunden im spezifischen EOS-Kontext.
+
 ### Ableitungslogik (roter Faden)
-> Kapitel 2 (Theorie) → Kapitel 3 (EOS-Praxis) → Kapitel 4 (Methodik) → Kapitel 5 (Befunde aus Interviews zeigen: welche Einflussfaktoren wirken, wo stößt das Instrument an Grenzen) → Kapitel 5.4 (Empfehlungen: kurzfristig optimieren, langfristig umdenken) → Kapitel 6 (Fazit)
+> Kapitel 2 (Theorie) → Kapitel 3 (EOS-Praxis) → Kapitel 4 (Methodik) → Kapitel 5 (Befunde aus Interviews: Einflussfaktoren bestätigt → Interpretation: konzeptionelle Grenzen des 360-Grad-Feedbacks auf MD-Ebene) → Kapitel 5.4 (Empfehlungen: kurzfristig optimieren, langfristig Instrument wechseln) → Kapitel 6 (Fazit)
 
 Die Empfehlungen sind **empirisch hergeleitet** (aus den Interviews) und **theoretisch geankert** (aus Kapitel 2). Das macht sie wissenschaftlich valide.
 
