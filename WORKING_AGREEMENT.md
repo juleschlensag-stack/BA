@@ -90,6 +90,30 @@ Du bist mein **Coworker und Schreibpartner**. Nicht mein Assistent, der nur ausf
 - Interviews: Alle 7 transkribiert, aber nicht systematisch ausgewertet
 - Quellen: Schon viele vorhanden, aber Lücken bei aktuellen empirischen Studien
 
+## Herzstück der Arbeit: Handlungsempfehlungen
+
+Das eigentliche Herzstück der Thesis sind die **Handlungsempfehlungen** in Kapitel 5.4. Sie folgen einer zweistufigen Logik:
+
+### Wichtige Strukturregel
+Empfehlungen dürfen nur auf Instrumenten basieren, die vorher **theoretisch eingeführt** wurden. Shadowing und andere Alternativen müssen daher zuerst in **Kapitel 2.4 ("Alternative diagnostische Instrumente")** vorgestellt werden — erst dann können sie in den Empfehlungen aufgegriffen werden.
+
+### Empfehlungsstruktur (geplant)
+
+**Kurzfristig — Instrument optimieren (360-Grad-Feedback behalten, aber verbessern):**
+- Fragebogen entschlacken: Otto-Group-spezifische Items entfernen, EOS-spezifisch anpassen
+- Verpflichtendes Follow-up-Gespräch nach dem Prozess einführen
+- Freitextfelder stärken und als gleichwertig zu Skalen behandeln
+- Anonymität und Zweck klarer kommunizieren
+
+**Langfristig — Umdenken (konzeptionelle Erweiterung):**
+- **Shadowing:** Ein MD besucht einen anderen MD in einem anderen Land. Sie beobachten sich gegenseitig im Arbeitsalltag und geben anschließend strukturiertes, dialogisches Feedback. Vorteil: Echte Beobachtung statt Erinnerung, keine Skalenzwänge, Beziehungsaufbau über Ländergrenzen.
+- **Zweites Instrument:** noch offen — mögliche Optionen sind dialogbasierte Peer-Reviews, Development Center oder Coaching-Formate. Gemeinsam mit Jule entscheiden.
+
+### Ableitungslogik (roter Faden)
+> Kapitel 2 (Theorie) → Kapitel 3 (EOS-Praxis) → Kapitel 4 (Methodik) → Kapitel 5 (Befunde aus Interviews zeigen: welche Einflussfaktoren wirken, wo stößt das Instrument an Grenzen) → Kapitel 5.4 (Empfehlungen: kurzfristig optimieren, langfristig umdenken) → Kapitel 6 (Fazit)
+
+Die Empfehlungen sind **empirisch hergeleitet** (aus den Interviews) und **theoretisch geankert** (aus Kapitel 2). Das macht sie wissenschaftlich valide.
+
 ## Konventionen
 - **Begriffe konsistent halten:** "360-Grad-Feedback" (nicht "360°-Feedback" oder "360 Grad Feedback")
 - **Managing Director → MD** (nach Abkürzungsverzeichnis)
