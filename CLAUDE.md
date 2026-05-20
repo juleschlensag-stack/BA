@@ -17,12 +17,34 @@
 2. Wie lassen sich die empirisch identifizierten Einflussfaktoren interpretieren: als adressierbare Stellschrauben am bestehenden Instrument oder als Symptome einer konzeptionellen Grenze standardisiert-aggregierender Bewertungsverfahren auf dieser Führungsebene?
 
 ## Struktur der Arbeit
-- **Kapitel 1:** Einleitung (Thema, Problemstellung, Zielsetzung, Aufbau) ✅
-- **Kapitel 2:** Theoretischer Rahmen (Management-Diagnostik, 360°-Feedback, Einflussfaktoren) ✅ (teilweise)
-- **Kapitel 3:** Situationsanalyse EOS Group ✅ (teilweise)
-- **Kapitel 4:** Methodik (Forschungsdesign, Datenerhebung, Interviews) — noch ausbaufähig
-- **Kapitel 5:** Ergebnisse und Diskussion — noch nicht ausgearbeitet
-- **Kapitel 6:** Abschließende Betrachtung / Fazit — noch nicht ausgearbeitet
+- **Kapitel 1:** Einleitung ✅ (1.036 Wörter)
+- **Kapitel 2.1–2.3:** Theoretischer Rahmen ✅ (2.415 Wörter)
+- **Kapitel 2.4:** Alternative diagnostische Instrumente 🚨 (8 Wörter — fehlt fast komplett!)
+- **Kapitel 3:** Situationsanalyse EOS Group ✅ (1.455 Wörter)
+- **Kapitel 4:** Methodik ✅ (804 Wörter — ausbaufähig)
+- **Kapitel 5.1–5.3:** Ergebnisse & Diskussion ✅ (3.794 Wörter — 5.3 mit 1.933 evtl. zu lang)
+- **Kapitel 6:** Fazit/Limitationen 🚨 (85 Wörter — fast leer!)
+
+## Aktueller Wortstand (Stand 20.05.2026)
+| Kapitel | Wörter | Status |
+|---------|--------|--------|
+| 1. Einleitung | 1.036 | ✅ |
+| 2.1 Management-Diagnostik | 277 | ✅ |
+| 2.2 360-Grad-Feedback | 492 | ✅ |
+| 2.3 Einflussfaktoren | 1.646 | ✅ |
+| 2.4 Alternative Instrumente | 8 | 🚨 fehlt |
+| 3.1 EOS Vorstellung | 226 | ✅ |
+| 3.2 Aufbau & Methodik EOS | 411 | ✅ |
+| 3.3 Deskriptive Analyse | 818 | ✅ |
+| 4.1 Forschungsdesign | 167 | ✅ |
+| 4.2 Datenerhebung | 373 | ✅ |
+| 4.3 Auswertung | 264 | ✅ |
+| 5.1 Zusammenführung | 745 | ✅ |
+| 5.2 Kritische Würdigung | 1.116 | ✅ |
+| 5.3 Handlungsempfehlungen | 1.933 | ⚠ evtl. kürzen |
+| 6. Fazit/Limitationen | 85 | 🚨 fehlt |
+| Literaturverzeichnis | 1.343 | ✅ |
+| **GESAMT (Limit: 12.000)** | **10.970** | **1.030 Wörter übrig** |
 
 ## Hochgeladene Dateien (Pfade)
 Alle Dateien liegen unter: `/root/.claude/uploads/15f6cb98-d274-43ec-9056-516fdb604a5d/`
@@ -86,13 +108,18 @@ Alle Dateien liegen unter: `/root/.claude/uploads/15f6cb98-d274-43ec-9056-516fdb
 - Kombination mit Persönlichkeitstests (Harrison) als ideal
 
 ## Offene TODOs in der Arbeit
+### 🚨 Kritisch (fehlen noch)
+- [ ] **Kapitel 2.4** Alternative diagnostische Instrumente schreiben (~300–400 Wörter) — Shadowing + Verbales 360° theoretisch einführen, damit Kap. 5.3 darauf aufbauen kann
+- [ ] **Kapitel 6** Fazit & Limitationen ausarbeiten (~600–700 Wörter) — derzeit nur 85 Wörter/Stichpunkte
+- [ ] Abstract schreiben (max. 300 Wörter) — zählt NICHT zum 12.000-Limit
+
+### ⚠ Wichtig
+- [ ] Kapitel 5.3 (Handlungsempfehlungen, 1.933 Wörter) kürzen um ~300–400 Wörter — schafft Budget für Kap. 6
 - [ ] Platzhalter `(Quelle)` in Kapitel 1 ersetzen
-- [ ] Kapitel 2.3 Einflussfaktoren fertigschreiben (instrumentell vollständig, organisational + individuell fehlen noch)
-- [ ] Kapitel 3 (EOS Situationsanalyse) vervollständigen
-- [ ] Kapitel 4 (Methodik) ausarbeiten
-- [ ] Kapitel 5 (Ergebnisse & Diskussion) schreiben — alle 7 Interviews auswerten
-- [ ] Kapitel 6 (Fazit & Limitationen) schreiben
-- [ ] Abstract schreiben (max. 300 Wörter)
-- [ ] Wortanzahl auf Titelseite eintragen
-- [ ] KI-Tool Dokumentation ausfüllen
-- [ ] Literaturverzeichnis vervollständigen
+- [ ] Alle `Abbildung X` Platzhalter durch echte Nummern ersetzen
+- [ ] Wortanzahl auf Titelseite eintragen (aktuell "xxxWörter")
+
+### 📋 Formales
+- [ ] KI-Tool Dokumentation vervollständigen (Claude Code ergänzen!)
+- [ ] Literaturverzeichnis prüfen (vollständig? korrekt Chicago Author-Date?)
+- [ ] Datei als .docx speichern (aktuell .dotx → kein AutoSave möglich!)
