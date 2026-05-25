@@ -77,6 +77,12 @@ Alle Dateien liegen unter: `/root/.claude/uploads/15f6cb98-d274-43ec-9056-516fdb
 - **KI-Nutzung:** muss gekennzeichnet und als Liste mit Prompts dokumentiert werden
 - **Einreichung:** PDF + Word via WISEflow
 
+## Vereinheitlichte Terminologie (verbindlich für alle Prompts und Texte)
+- **Pol A** (das standardisierte 360°-Paradigma): immer **„standardisierte Skalenbewertung"**
+- **Pol B** (Shadowing + Interview-basiertes 360°): immer **„qualitativ-dialogische Logik"**
+- Verbotene Synonyme für Pol A: „standardisiert-aggregierend", „skalenbasiert", „quantifizierend", „standardisiert-quantitativ", „aggregierend-quantifizierend"
+- Verbotene Synonyme für Pol B: „dialogisch-rekonstruktiv", „dialogisch-relational", „rekonstruktiv", „narrativ-dialogisch"
+
 ## Drei Dimensionen der Einflussfaktoren (Kern der Arbeit)
 ### Instrumentell
 1. Fragebogenlänge → Ermüdung/Satisficing
